@@ -1,0 +1,845 @@
+﻿ID,Title,SEO
+51164,Resolve security threats with Azure Security Center,azure
+51166,Manage and drive actions from survey responses with Voice of the Customer for Dynamics 365,"dynamics, dynamics-sales, dynamics-customer-service"
+51170,Design Voice of the Customer for Dynamics 365 surveys,"dynamics, dynamics-sales, dynamics-customer-service"
+51177,"Train, evaluate, and select machine-learning models with Azure Databricks","azure, azure-databricks"
+51178,Create a machine learning model for offline use on a Windows device,windows
+51179,Configure Microsoft Dynamics 365 Field Service,"dynamics, dynamics-field-service"
+51181,Introduction to Azure Cognitive Search,azure
+51185,Design and build mobile apps for Finance and Operations apps,"dynamics, dynamics-finance-operations"
+51186,Connect your on-premises network to Azure with VPN Gateway,"azure, azure-virtual-network, azure-vpn-gateway"
+51187,Connect your on-premises network to the Microsoft global network by using ExpressRoute,"azure, azure-virtual-network, azure-expressroute"
+51188,Load balance your web service traffic with Application Gateway,"azure, azure-virtual-network, azure-application-gateway"
+51190,Design an IP addressing schema for your Azure deployment,"azure, azure-virtual-network"
+51191,Manage and control traffic flow in your Azure deployment with routes,"azure, azure-virtual-machines, azure-virtual-network"
+51194,Distribute your services across Azure virtual networks and integrate them by using virtual network peering,"azure, azure-virtual-network"
+51195,Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools,"azure, azure-virtual-network"
+51197,Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+51198,Centralize your core services by using hub and spoke Azure virtual network architecture,"azure, azure-virtual-network, azure-expressroute"
+51199,Store and access graph data in Azure Cosmos DB with the Graph API,"azure, azure-cosmos-db"
+51201,"Monitor, diagnose, and troubleshoot your Azure storage",azure
+51206,Work with and manage Service Level Agreements with Dynamics 365 for Customer Service,"dynamics, dynamics-customer-service"
+51208,Core Cloud Services - Set up CORS for your website and storage assets,"azure, azure-clis, azure-cloud-shell, azure-storage"
+51210,Create and manage entitlements in Microsoft Dynamics 365 for Customer Service,"dynamics, dynamics-customer-service"
+51217,Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads,"dynamics, dynamics-customer-service"
+51218,Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service,"dynamics, dynamics-customer-service"
+51221,Create and design knowledge management solutions in Dynamics 365 for Customer Service,"dynamics, dynamics-customer-service"
+51222,Resource scheduling optimization in Microsoft Dynamics 365 for Field Service,"dynamics, dynamics-field-service"
+51227,Customize the schedule board in Microsoft Dynamics 365 for Field Service,"dynamics, dynamics-field-service"
+51229,Manage scheduling options in Dynamics 365 for Field Service,"dynamics, dynamics-field-service"
+51231,Configure bookable resources in Microsoft Dynamics 365 for Field Service,"dynamics, dynamics-field-service"
+53154,Choose the best Azure service to automate your business processes,azure
+53155,Create a Content Delivery Network for your Website with Azure CDN and Blob Services,"azure, azure-cdn"
+53156,Diagnose startup errors in your application using Kudu console,azure
+53157,Store and Access NoSQL Data with Azure Cosmos DB and the Table API,"azure, azure-storage, azure-cosmos-db"
+53158,Load test Azure web apps by using Azure DevOps,"azure, dotnet, aspnet-core, dotnet-core"
+53159,Build Azure Resource Manager templates,"azure, azure-clis, azure-virtual-machines"
+53160,Capture Web Application Logs with App Service Diagnostics Logging,"azure, dotnet, aspnet-core, dotnet-core"
+53161,Capture and view page load times in your Azure web app with Application Insights,"azure, dotnet, aspnet-core, dotnet-core"
+53163,Support concurrency in Blob storage apps with ETags and blob leases,"azure, azure-storage"
+53164,Gather metrics from your Azure Blob Storage containers,azure
+53166,Create data visualizations by using Azure Databricks and Power BI,"azure, azure-databricks"
+53167,Perform exploratory data analysis with Azure Databricks,"azure, azure-databricks"
+53170,Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies,"azure, azure-cosmos-db"
+53171,Route and process data automatically using Logic Apps,"azure, azure-portal, azure-logic-apps"
+53172,Introduction to Azure Databricks,"azure, azure-databricks"
+53174,Read and write data by using Azure Databricks,"azure, azure-databricks"
+53176,Perform text analytics with Azure Databricks,"azure, azure-databricks"
+53177,Data ingestion with Azure data factory,"azure, azure-databricks"
+53178,Deep learning with Azure Databricks,"azure, azure-databricks"
+53179,Work with streaming data in Azure Databricks,"azure, azure-databricks"
+53180,Control and organize Azure resources with Azure Resource Manager,"azure, azure-resource-manager"
+53181,Perform basic data transformations in Azure Databricks,"azure, azure-databricks"
+53184,Create data pipelines by using Databricks Delta,"azure, azure-databricks"
+53185,Keep your virtual machines updated,"azure, azure-virtual-machines, azure-automation"
+53186,Authenticate browser-based apps with Azure App Services,"azure, azure-app-service"
+53188,Publish a web app to Azure with Visual Studio,"azure, dotnet, aspnet-core, dotnet-core, dotnet-standard"
+53189,Access SQL Data Warehouse instances with Azure Databricks,"azure, azure-databricks"
+53191,Configure the network for your virtual machines,"azure, azure-virtual-machines, azure-virtual-network, azure-expressroute, azure-vpn-gateway, azure-virtual-network"
+53192,Get started with Azure DevOps,azure-devops
+53196,Write internet-connected Windows apps,windows
+53197,Getting started with Visual Studio for Windows 10 app development,windows
+53199,Write your first Windows 10 application,windows
+53201,Introduction to Windows 10 development,windows
+53240,Automate Azure tasks using scripts with PowerShell,azure
+53241,Design for availability and recoverability in Azure,"azure, azure-storage, azure-sql-database, azure-cosmos-db, azure-site-recovery, azure-traffic-manager, azure-app-service, azure-load-balancer, azure-backup, azure-application-gateway"
+53242,Secure your Azure resources with role-based access control (RBAC),"azure, azure-portal, azure-active-directory"
+53243,Get started with Dynamics 365 for Customer Service,"dynamics, dynamics-customer-service"
+53244,Design for performance and scalability in Azure,"azure, azure-cdn, azure-virtual-machines, azure-app-service, azure-sql-database, azure-functions, azure-container-instances, azure-kubernetes-service, azure-traffic-manager, azure-redis-cache, azure-monitor, azure-expressroute, azure-virtual-network"
+53245,Align requirements with cloud types and service models in Azure,azure
+53246,Introduction to Azure virtual machines,"azure, azure-virtual-machines"
+53248,Secure your Azure SQL Database,"azure, azure-portal, azure-sql-database"
+53249,Design for security in Azure,"azure, azure-active-directory"
+53251,Optimize your web applications by caching read-only data with Redis,"azure, azure-redis-cache, dotnet, aspnet-core, dotnet-core"
+53252,Pillars of a great Azure architecture,azure
+53253,Manage virtual machines with the Azure CLI,"azure, azure-virtual-machines, azure-clis"
+53254,Enable reliable messaging for Big Data applications using Azure Event Hubs,"azure, azure-event-hubs"
+53255,Implement message-based communication workflows with Azure Service Bus,"azure, azure-service-bus"
+53256,Communicate between applications with Azure Queue storage,"azure, azure-storage"
+53258,Choose a messaging model in Azure to loosely connect your services,"azure, azure-service-bus, azure-event-grid, azure-event-hubs"
+53259,Create serverless logic with Azure Functions,"azure, azure-functions, azure-portal"
+53261,Secure your Azure virtual machine disks,"azure, azure-virtual-machines, azure-storage, azure-resource-manager"
+53262,Caching and performance in Azure storage disks,"azure, azure-virtual-machines, azure-storage"
+53263,Get started with Common Data Service,"power-platform, powerapps"
+53264,Add and size disks in Azure virtual machines,"azure, azure-virtual-machines, azure-portal"
+53265,Store application data with Azure Blob storage,"azure, azure-storage"
+53267,Get started with model-driven apps in Power Apps,"power-platform, powerapps"
+53268,Work with mutable and partial data in Azure Cache for Redis,"azure, azure-redis-cache, azure-cloud-shell"
+53269,Share your location as a text message using Azure Functions and Twilio,"azure, vs, azure-functions, azure-portal"
+53270,Create and share your first Power BI report,"power-platform, power-bi"
+53271,Introduction to Azure Government,azure
+53272,Get started building with Power BI,"power-platform, power-bi"
+53274,Get started with Power Automate,"power-platform, power-automate"
+53275,Insert and query data in your Azure Cosmos DB database,"azure, azure-cosmos-db, azure-clis, azure-portal"
+53276,Provision an Azure SQL database to store application data,"azure, azure-sql-database, azure-cloud-shell"
+53277,Create an Azure Database for PostgreSQL server,"azure, azure-clis, azure-cloud-shell"
+53278,Create an Azure Storage account,"azure, azure-storage, azure-portal"
+53279,Choose a data storage approach in Azure,"azure, azure-storage, azure-sql-database, azure-cosmos-db"
+53281,Manage secrets in your server apps with Azure Key Vault,"azure, azure-key-vault, azure-app-service"
+53283,Host a web application with Azure App service,"azure, azure-app-service, azure-portal"
+53284,"Security, responsibility, and trust in Azure","azure, azure-active-directory"
+53285,Core Cloud Services - Azure networking options,"azure, azure-virtual-network, azure-traffic-manager, azure-load-balancer"
+53286,Get started with Power Apps,"power-platform, powerapps"
+53287,Core Cloud Services - Azure data storage options,"azure, azure-storage, azure-sql-database, azure-cosmos-db, azure-data-lake, azure-files"
+53288,Distribute your data globally with Azure Cosmos DB,"azure, azure-cosmos-db, azure-clis, azure-portal"
+53289,Core Cloud Services - Azure compute options,"azure, azure-virtual-machines, azure-app-service, azure-container-instances, azure-kubernetes-service, azure-functions, azure-logic-apps"
+53290,Core Cloud Services - Manage services with the Azure portal,"azure, azure-portal"
+53291,Cloud Concepts - Principles of cloud computing,"azure, azure-portal, azure-resource-manager"
+53292,Create a Linux virtual machine in Azure,"azure, azure-portal, azure-virtual-machines"
+53293,Build and run a web application with the MEAN stack on an Azure Linux virtual machine,"azure, azure-virtual-machines, azure-cloud-shell"
+53294,Create an Azure Cosmos DB database built to scale,"azure, azure-portal, azure-cosmos-db"
+53296,Prepare your development environment for Azure development,"azure, vs, vs-code, vs-mac, azure-sdks"
+53297,Connect an app to Azure Storage,"azure, azure-storage, azure-cloud-shell"
+53298,Discover sentiment in text with the Text Analytics API,"azure, azure-cosmos-db, azure-cloud-shell, azure-functions, azure-portal, azure-storage, azure-cognitive-services"
+53299,Secure your Azure resources with Conditional Access,"azure, azure-active-directory"
+53300,Predict costs and optimize spending for Azure,"azure, azure-portal, azure-cost-management"
+53301,Build a .NET Core app for Azure Cosmos DB in Visual Studio Code,"azure, azure-cosmos-db, vs, vs-code, dotnet, aspnet-core, dotnet-core"
+53302,The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion,"azure, azure-functions, vs-code"
+53303,Chain Azure Functions together using input and output bindings,"azure, azure-cosmos-db, azure-functions, azure-storage"
+53304,Execute an Azure Function with triggers,"azure, azure-functions, azure-portal"
+53305,Monitor and manage your coffee machine with Azure IoT Central,"azure, azure-iot-central"
+53306,Learn how to manage IoT devices as an IT Admin,azure
+53307,Build a chat bot with the Azure Bot Service,"azure, vs, vs-code, azure-bot-service"
+53308,Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT,"dynamics, dynamics-field-service, azure, azure-iot-central"
+53309,Introduction to Site Reliability Engineering (SRE),azure
+53310,Create a Windows virtual machine in Azure,"azure, azure-virtual-machines"
+53311,Top 5 security items to consider before pushing to production,"azure, azure-key-vault"
+53312,"Interactive deep learning with Jupyter, Docker and PyTorch on the Data Science Virtual Machine","azure, azure-virtual-machines"
+53313,Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT,"dynamics, dynamics-field-service, azure, azure-iot-central"
+53314,Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT,"dynamics, dynamics-field-service, azure, azure-iot-central"
+53315,Classify images with the Microsoft Custom Vision Service,"azure, azure-cognitive-services, azure-portal"
+53317,Using IoT Central with Connected Field Service for Dynamics 365,"dynamics, dynamics-field-service, azure, azure-iot-central"
+53318,Get started with Connected Field Service for Dynamics 365 and Azure IoT,"dynamics, dynamics-field-service, azure, azure-iot-central"
+53319,Run Docker containers with Azure Container Instances,"azure, azure-container-instances, azure-cosmos-db"
+53320,Build and store container images with Azure Container Registry,"azure, azure-container-instances, azure-container-registry"
+53322,Control Azure services with the CLI,"azure, azure-clis"
+53323,Design for efficiency and operations in Azure,"azure, azure-cost-management, azure-advisor, azure-monitor"
+53324,Managing cases with Microsoft Dynamics 365 for Customer Service,"dynamics, dynamics-customer-service"
+53352,Core Cloud Services - Introduction to Azure,"azure, azure-clis"
+53353,Process images with the Computer Vision service,"azure, azure-clis, azure-cognitive-services"
+53869,SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit,sql-server
+53870,Introduction to upgrading Office at scale,"m365, office-365"
+53871,Run SQL Server 2017 on Linux containers,sql-server
+53874,Assess and convert SQL Server Databases using the Data Migration Assistant (DMA),sql-server
+53875,Test and optimize SQL Server databases using the Database Experimentation Assistant (DEA),sql-server
+53876,Use the SQL Server Query Tuning Assistant,sql-server
+53877,Introduction to SQL Server on Linux,sql-server
+53878,Deploy SQL Server on Linux,sql-server
+53879,Automatically tune SQL Server on Linux,sql-server
+54072,Set up and manage Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+54094,Generate leads in Dynamics 365 Marketing,"dynamics, dynamics-marketing, dynamics-customer-engagement"
+54098,Marketing to leads and contacts in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+54100,Analyze results in Dynamics 365 Marketing,"dynamics, dynamics-marketing, dynamics-customer-engagement"
+54817,Instrument server-side web application code with Application Insights ,"azure, dotnet, aspnet-core, dotnet-core"
+55085,Introduction to high-performance computing (HPC) on Azure,"azure, azure-batch, azure-virtual-machines"
+55093,Deploy Azure virtual machines from VHD templates,"azure, azure-virtual-machines"
+55096,Make your application storage highly available with read-access geo-redundant storage,azure
+55123,Analyze your Azure infrastructure by using Azure Monitor logs,azure
+55124,Improve incident response with alerting on Azure,"azure, azure-monitor"
+55126,Design a holistic monitoring strategy on Azure,"azure, azure-monitor"
+55142,Design your migration to Azure,azure
+55859,Work with workflows in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+56312,Get help and learn more about Finance and Operations apps,"dynamics, dynamics-finance-operations"
+56323,Configure currencies in Dynamics 365 Finance,"dynamics, dynamics-finance"
+56331,"Create fiscal calendars, years, and periods in Dynamics 365 Finance","dynamics, dynamics-finance"
+56341,Configure chart of accounts in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+56347,Configure ledgers and journals in Dynamics 365 Finance,"dynamics, dynamics-finance"
+56350,Perform general ledger daily procedures in Dynamics 365 Finance,"dynamics, dynamics-finance"
+56352,Intercompany accounting in Dynamics 365 Finance,"dynamics, dynamics-finance"
+56355,Configure ledger allocations and accruals in Dynamics 365 Finance,"dynamics, dynamics-finance"
+56381,Tour the N-tier architecture style for your application,azure
+56948,Plan and implement legal entities in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+56950,Plan and implement security in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57014,Personalize Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57016,Implement common integration features in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57031,Get started with Lifecycle Services for Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57467,Prepare data for migration to Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57469,Work with data management in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57471,Perform user acceptance testing in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57473,Prepare to go-live with Finance and Operations apps,"dynamics, dynamics-finance-operations"
+57491,Configure cash and bank management in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57499,Work with cash and bank management in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57501,Configure letters of credit and guarantees in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57504,Configure the Tax module in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+57613,Configure Accounts payable in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57615,Perform Accounts payable daily procedures in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57617,"Work with accounting distributions, invoice validations and settlements in Dynamics 365 Finance","dynamics, dynamics-finance"
+57622,Configure and process postdated checks in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57631,Configure accounts receivable in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57636,Perform accounts receivable daily procedures in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57639,Configure credit and collections in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57642,Process credit and collections in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57653,Configure and use basic budgeting and budget control in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57655,Configure and use budget planning in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57659,Configure fixed assets management in Dynamics 365 Finance,"dynamics, dynamics-finance"
+57662,Manage fixed assets in Dynamics 365 Finance,"dynamics, dynamics-finance"
+58571,Manage leads with Dynamics 365 Sales,"dynamics, dynamics-sales"
+58572,Manage opportunities with Dynamics 365 Sales,"dynamics, dynamics-sales"
+58573,Leverage Embedded Intelligence in Dynamics 365 Sales,"dynamics, dynamics-sales"
+58574,Manage and organize your product catalog with Dynamics 365 Sales,"dynamics, dynamics-sales"
+58575,Process sales orders with Dynamics 365 Sales,"dynamics, dynamics-sales"
+58576,Manage relationships with social selling in Dynamics 365 Sales,"dynamics, dynamics-sales"
+58597,Analyze Dynamics 365 sales data,"dynamics, dynamics-sales"
+58813,Access Metrics from your Azure Blob Storage Containers Programmatically,azure
+59056,Copy and move blobs from one container or storage account to another from the command line and in code ,azure
+59057,Organize Azure storage blobs with properties and metadata,azure
+59061,Optimize storage performance and costs using Blob storage tiers,azure
+59068,Run parallel tasks in Azure Batch with the Azure CLI,azure
+59069,Create an app to run parallel compute jobs in Azure Batch,"azure, dotnet, dotnet-core"
+59081,Build a containerized web application with Docker,azure
+59082,Deploy and run a containerized web app with Azure App Service,"azure, azure-app-service, azure-container-registry"
+59109,Improve the developer experience of an API with Swagger documentation,"azure, azure-clis, aspnet-core, dotnet, dotnet-core"
+59117,Develop and configure an ASP.NET application that queries an Azure SQL database,"azure, azure-sql-database"
+59118,Scale multiple Azure SQL Databases with SQL elastic pools,"azure, azure-portal, azure-sql-database"
+59121,Improve the performance of an API by adding a caching policy in Azure API Management,"azure, azure-api-management"
+59123,Publish and manage your APIs with Azure API Management,"azure, azure-api-management"
+59139,Create a long-running serverless workflow with Durable Functions,"azure, azure-functions"
+59141,"Develop, test, and deploy an Azure Function with Visual Studio","azure, vs, azure-functions"
+59145,Monitor GitHub events by using a webhook with Azure Functions,"azure, azure-functions"
+59146,Stage a web app deployment for testing and rollback by using App Service deployment slots,"azure, dotnet, aspnet-core, dotnet-core"
+59151,Run a background task in an App Service Web App with WebJobs,"azure, dotnet, aspnet-core, dotnet-core"
+59152,Scale an App Service web app to efficiently meet demand with App Service scale up and scale out,"azure, dotnet, aspnet-core, dotnet-core"
+59246,Call an API from a Logic Apps workflow using a custom connector,"azure, azure-logic-apps"
+59247,Create and deploy Logic Apps using Azure Resource Manager templates,"azure, azure-logic-apps, azure-resource-manager"
+59537,Handle transient errors in your app,azure
+59539,Introduction to Xamarin.Android,"xamarin, vs, dotnet"
+59540,Introduction to Xamarin.iOS,"xamarin, dotnet, vs"
+59544,Create a mobile app with Xamarin.Forms,"xamarin, dotnet, vs"
+59547,Create a UI in Xamarin.Forms apps by using XAML,"xamarin, dotnet, vs"
+59550,Customize layout in Xamarin.Forms XAML pages,"xamarin, dotnet, vs"
+59551,Design consistent Xamarin.Forms XAML pages by using shared resources and styles,"xamarin, dotnet, vs"
+59552,Consume REST web services in Xamarin apps,"xamarin, dotnet, vs"
+59553,Store local data with SQLite in a Xamarin.Forms app,"xamarin, dotnet, vs"
+59555,Create multi-page Xamarin.Forms apps with stack and tab navigation,"xamarin, dotnet, vs"
+59556,Prepare to publish your Xamarin app,"xamarin, dotnet, vs"
+59557,Explore cross-platform design patterns for Xamarin apps,"xamarin, vs, dotnet"
+59558,Separate your UI and code with Xamarin.Forms data binding,"xamarin, dotnet, vs"
+59559,Display collections in Xamarin.Forms apps by using ListView,"xamarin, dotnet, vs"
+59561,Display relationships in Xamarin.Forms with master-detail navigation,"xamarin, dotnet, vs"
+59563,Customize a Xamarin.Forms ListView,"xamarin, dotnet, vs"
+59564,Design an MVVM viewmodel for Xamarin.Forms,"xamarin, dotnet, vs"
+59567,Use effects in Xamarin.Forms,"xamarin, dotnet, vs"
+59569,Create custom controls with Xamarin.Forms renderers,"xamarin, dotnet, vs"
+59617,Choose the appropriate API for Azure Cosmos DB storage,"azure, azure-cosmos-db"
+59778,Get started with Dynamics 365 Finance,"dynamics, dynamics-finance"
+59784,Get started with production control in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+59792,Introduction to Dynamics 365 portals,"dynamics, power-platform"
+59795,Provision and administer Dynamics 365 portals,"dynamics, power-platform"
+59797,Work with Dynamics 365 portal components,"dynamics, power-platform"
+59798,Create content in Dynamics 365 portals,"dynamics, power-platform"
+59799,Configure activity-based subcontracting and production flow costing in Dynamics 365 Supply Chain Management,"dynamics, dynamics-finance-operations"
+59801,Secure Dynamics 365 portals content,"dynamics, power-platform"
+59803,Secure Common Data Service data in Dynamics 365 portals,"dynamics, power-platform, common-data-service"
+59804,Develop with Dynamics 365 portals,"dynamics, power-platform"
+59810,Get started with discrete manufacturing in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+59813,Configure discrete manufacturing in Dynamics 365 Supply Chain Management,"dynamics, dynamics-finance-operations"
+59815,Work with the costing sheet in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+59817,Work with capacity planning and scheduling in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+59823,Work with manufacturing execution in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+59891,Design Microsoft Power Platform Dynamics 365 Deployments,"dynamics, powerapps, power-platform"
+59894,Administer Microsoft Power Platform subscriptions,"powerapps, dynamics, power-platform"
+59897,Manage Dynamics 365 clients,"dynamics, powerapps, power-platform"
+59899,Microsoft Power Platform Mobile management,"dynamics, powerapps, power-platform"
+59933,Introduction to Microsoft Business Applications,"dynamics, power-platform"
+59934,Enabling digital transformation,"azure, dynamics, m365, power-platform"
+59936,Introduction to Azure solutions,azure
+59937,Applications and infrastructure migration and modernization,azure
+59938,Microsoft data estate migration and modernization,azure
+59940,Microsoft Azure IoT strategy and solutions,azure
+59943,Overview of the Microsoft Cloud Operating Model,azure
+59946,Welcome to Microsoft Business Applications,"dynamics, power-platform"
+59948,Discover how your organization can achieve more with Surface for Business and Microsoft 365,m365
+59952,Facilitate teamwork to achieve more with Microsoft 365,m365
+59953,Enable modern communication and collaboration with Microsoft Teams,m365
+59954,Discover modern workplace solutions with Microsoft 365 and Surface for Business,m365
+59955,Balance IT and user needs with Windows 10 and Office 365 ProPlus,m365
+59956,"Secure your organization with built-in, intelligent security from Microsoft 365",m365
+59957,"Meet the growing demand for transparency, privacy, and compliance with Microsoft 365",m365
+59958,"Power Platform - Introduction, business value, and demos","common-data-service, power-automate, power-bi, power-platform, powerapps"
+59962,Microsoft runs on trust,"dynamics, azure, power-platform"
+59963,Learn how your organization can move to a modern workplace with Microsoft 365,m365
+59967,Dynamics 365 applications and the Power Platform,"dynamics, power-platform"
+59968,Dynamics 365 Sales,"dynamics, dynamics-sales"
+59970,Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+59971,Dynamics 365 Customer Service,"dynamics, dynamics-customer-service"
+59972,Dynamics 365 Field Service,"dynamics, dynamics-field-service"
+59976,Dynamics 365 Retail,"dynamics, dynamics-retail"
+59978,Dynamics 365 Talent,"dynamics, dynamics-talent"
+59980,Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+60068,Get started with lean manufacturing in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60071,Configure lean manufacturing in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60073,Create and process fixed kanbans in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60083,Create and process event kanban rules in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60088,Create and process scheduled kanbans in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60094,Configure process manufacturing in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+60100,Identify and configure batch attributes for process manufacturing in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60102,Work with commodity pricing and compliance in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60295,Configure and work with inventory management in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+60299,Use inventory reports in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60301,Create products and product masters in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60303,Create bill of materials in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60310,Configure and perform the procure-to-purchase process in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60346,Configure and manage vendor collaboration in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60348,Process purchase orders in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60350,Configure and work with quality control in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60381,Configure and use agreements in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60392,Configure and manage the order to cash process in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60425,Configure and use intercompany trade in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60437,Configure and use master planning in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60443,Configure warehouse management in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60450,Work with warehouse management in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+60456,Configure and work with transportation management in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+60519,Create a web API with ASP.NET Core,"dotnet, aspnet-core, dotnet-core"
+60782,Navigate Finance and Operations apps,"dynamics, dynamics-finance-operations"
+60863,Work with analytics and reporting in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+60912,Perform advanced data transformation in Azure Databricks,"azure, azure-databricks"
+61014,Get started with cost accounting in Dynamics 365 Finance,"dynamics, dynamics-finance"
+61021,Configure electronic reporting in Dynamics 365 Finance,"dynamics, dynamics-finance, dynamics-finance-operations"
+61040,Configure and perform periodic processes in Dynamics 365 Finance,"dynamics, dynamics-finance-operations"
+61062,Configure Dynamics 365 Finance for public sector,"dynamics, dynamics-finance"
+61073,Get started with product configuration in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+61078,Use warehouse management for manufacturing in Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+61182,What is Microsoft 365?,m365
+61183,Introduction to teamwork in Microsoft 365,m365
+61186,Select a cloud deployment model,m365
+61190,Introduction to compliance tools in Microsoft 365,m365
+61207,Introduction to Microsoft 365 unified endpoint management,"m365, azure"
+61208,Move to a modern desktop with Microsoft 365,m365
+61213,Manage your Microsoft 365 subscription,m365
+61420,Create an Azure account,"azure, azure-portal"
+61421,Core Cloud Services - Azure architecture and service guarantees,azure
+61422,Apply and monitor infrastructure standards with Azure Policy,azure
+61530,Understand the evolving world of data,azure
+61532,Survey the services on the Azure Data platform,"azure, azure-storage"
+61533,Identify the tasks of a data engineer in a cloud-hosted architecture,azure
+61535,Introduction to Azure Data Lake storage,azure
+61536,Upload data to Azure Data Lake Storage,azure
+61537,Secure your Azure Storage account,"azure, azure-storage"
+61539,Design a data warehouse with Azure SQL Data Warehouse,"azure, azure-sql-data-warehouse"
+61540,Query data in Azure SQL Data Warehouse,"azure, azure-sql-data-warehouse"
+61541,Import data into Azure SQL Data Warehouse by using PolyBase,"azure, azure-sql-data-warehouse"
+61543,Data warehouse security,"azure, azure-sql-data-warehouse"
+61545,Work with data streams by using Azure Stream Analytics,"azure, azure-stream-analytics"
+61546,Transform data by using Azure Stream Analytics,"azure, azure-stream-analytics"
+61617,Improve application scalability and resiliency by using Azure Load Balancer,"azure, azure-load-balancer, azure-virtual-network"
+62005,Set up batch jobs in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+62736,Enhance your service availability and data locality by using Azure Traffic Manager,"azure, azure-traffic-manager, azure-virtual-network"
+62745,Secure and isolate access to Azure resources by using network security groups and service endpoints,"azure, azure-virtual-network"
+62951,Build a scalable application with virtual machine scale sets,"azure, azure-virtual-machines"
+63691,Welcome to Microsoft Azure,azure
+63942,Choose the right disk storage for your virtual machine workload,"azure, azure-virtual-machines"
+65097,Enable automatic updates in a web application using Azure Functions and SignalR Service,"azure, azure-storage, azure-functions, azure-cosmos-db"
+65117,Introduction to Azure Logic Apps,"azure, azure-logic-apps"
+65222,Plan and configure the global address book in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+65740,Manage users and authentication in Dynamics 365 portals,"dynamics, power-platform"
+65884,Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS),"azure, azure-sdks, azure-bot-service, azure-cognitive-services, azure-language-understanding"
+65887,Translate speech in real time with Azure Cognitive Services,"azure, azure-sdks, azure-cognitive-services"
+65889,Create an Experiment in Azure Machine Learning Studio,"azure, azure-machine-learning-studio"
+65892,Classify and moderate text with Azure Content Moderator,"azure, azure-sdks, azure-cognitive-services"
+65896,Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services,"azure, azure-sdks"
+65901,Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services,"azure, azure-sdks, azure-cognitive-services"
+65903,Build an FAQ chatbot with QnA Maker and Azure Bot Service,"azure, azure-sdks, azure-bot-service"
+65905,Create an Azure Machine Learning Studio Account,"azure, azure-machine-learning-studio"
+66958,Secure your application by using OpenID Connect and Azure AD,"azure, azure-active-directory"
+66964,Control authentication for your APIs with Azure API Management,"azure, azure-api-management"
+67025,Encrypt network traffic end to end with Azure Application Gateway,"azure, azure-virtual-network, azure-application-gateway"
+67166,Introduction to securing data at rest on Azure,"azure, azure-sql-database, azure-cosmos-db, azure-storage, azure-key-vault"
+67172,Design your site recovery solution in Azure,"azure, azure-backup, azure-site-recovery"
+67173,Protect your Azure infrastructure with Azure Site Recovery,azure
+67174,Protect your on-premises infrastructure from disasters with Azure Site Recovery,azure
+67178,Design a geographically distributed application,"azure, azure-cdn, azure-app-service, azure-redis-cache, azure-sql-database, azure-cosmos-db"
+67183,Protect your virtual machines by using Azure Backup,"azure, azure-virtual-machines, azure-backup"
+67186,Back up and restore your Azure SQL database,azure
+67206,Protect your APIs on Azure API Management,"azure, azure-api-management"
+67523,Automate the ML model selection with Azure Machine Learning service,"azure, azure-machine-learning-service"
+67524,Choose the Data Science service in Azure you need,azure
+67525,Explore the types of Azure Data Science Virtual Machines,azure
+67526,Introduction to the Azure Data Science Virtual Machine,azure
+67527,Introduction to Azure Machine Learning service,"azure, azure-machine-learning-service"
+67528,Introduction to Data Science in Azure,azure
+67530,Provision and use an Azure Data Science Virtual Machine,azure
+67531,Register and deploy ML models with Azure Machine Learning service,"azure, azure-machine-learning-service"
+67532,Train a local ML model with Azure Machine Learning service,"azure, azure-machine-learning-service"
+68722,Dynamically meet changing web app performance requirements with autoscale rules,"azure, dotnet, aspnet-core, dotnet-core"
+69700,Navigation in a canvas app in Power Apps,"power-platform, powerapps"
+69708,Use and understand Controls in a canvas app in Power Apps,"power-platform, powerapps"
+69920,Persist and retrieve relational data with Entity Framework Core,"dotnet, aspnet-core, dotnet-core, dotnet-standard, ef-core, azure, azure-monitor, azure-sql-database"
+70641,Work with relational data in a Power Apps canvas app,"power-platform, powerapps"
+70642,Work with data source limits (delegation limits) in a Power Apps canvas app,"power-platform, powerapps"
+70643,Connecting to other data in a Power Apps canvas app,"power-platform, powerapps"
+70644,Use custom connectors in a Power Apps canvas app,"power-platform, powerapps"
+71301,Pitch your product prototype,azure
+71305,Build product road maps,azure
+71742,Create a user interface (UI) for Windows 10 apps,windows
+71746,Enhance the user interface of your Windows 10 app,windows
+71750,Get started with the Windows Subsystem for Linux,windows
+71751,Implement data binding in your Windows 10 application,windows
+71752,Integrate adaptive cards into Windows 10 Timeline,windows
+71753,Creating Adaptive Cards,windows
+72001,Achieve business transformation with Microsoft Catalyst,"dynamics, power-platform"
+72139,Configure Dynamics 365 portals,"dynamics, dynamics-customer-service"
+72140,"Configure forms, charts, and dashboards in model driven apps","dynamics, power-platform"
+72165,Get started with workflows in Dynamics 365 for Customer Engagement,"power-platform, power-automate, dynamics"
+72166,Integrate Office and Dynamics 365 Customer Engagement apps,"dynamics, power-platform"
+72168,Introduction to integration with Dynamics 365 Customer Engagement apps,"dynamics, power-platform"
+72170,Manage your Dynamics 365 Customer Engagement apps data,"dynamics, power-platform, dynamics-customer-service"
+72174,Create business process flows for model-driven apps in Dynamics 365,"dynamics, power-platform, power-automate"
+72176,Design and plan an implementation of Finance and Operations apps,"dynamics, dynamics-finance-operations"
+72178,Introduction to Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+72181,Define and track individual goals in Dynamics 365 Customer Engagement apps,"dynamics, dynamics-sales"
+72188,Use goal metrics in Dynamics 365 Customer Engagement apps,"dynamics, dynamics-sales"
+72313,Response routing and survey scoring options in Voice of the Customer for Dynamics 365,"dynamics, dynamics-sales, dynamics-customer-service"
+72315,Deliver a customized mobile experience in Microsoft Dynamics 365 for Field Service,"dynamics, dynamics-field-service"
+72316,Get started with Microsoft Dynamics 365 Field Service Mobile,"dynamics, dynamics-field-service"
+72317,"Work order management, agreements, inventory, and purchasing in Microsoft Dynamics 365 Field Service","dynamics, dynamics-field-service"
+72318,"Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service","dynamics, dynamics-field-service"
+72319,Advanced configuration for Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+72320,Assess leads in Dynamics 365 Marketing,"dynamics, dynamics-marketing, dynamics-customer-engagement"
+72321,Lead Lifecycle in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+72322,Use the Admin center to manage environments and data policies in Power Automate,"power-platform, power-automate"
+72323,Build more complex flows with Power Automate,"power-platform, power-automate"
+72324,Customize a canvas app in Power Apps,"power-platform, powerapps"
+72325,Manage apps in Power Apps,"power-platform, powerapps"
+72326,Document and test your Power Apps application,"dynamics, power-platform"
+72345,Use imperative development techniques for canvas apps in Power Apps,"power-platform, powerapps"
+72346,"Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps","power-platform, powerapps"
+72347,Complete testing and performance checks in a Power Apps canvas app,"power-platform, powerapps"
+72348,Perform custom updates in a Power Apps canvas app,"power-platform, powerapps"
+72816,Assess your existing software development process,azure-devops
+72817,Create a build pipeline with Azure Pipelines,azure-devops
+72818,Choose an Agile approach to software development,azure-devops
+72820,Implement a code workflow in your build pipeline by using Git and GitHub,azure-devops
+72821,Manage build dependencies with Azure Artifacts,azure-devops
+72822,Host your own build agent in Azure Pipelines,"azure-devops, azure"
+72823,Run quality tests in your build pipeline by using Azure Pipelines,azure-devops
+72824,Scan code for vulnerabilities in Azure Pipelines,azure-devops
+72825,Scan open source components for vulnerabilities and license ratings in Azure Pipelines,azure-devops
+73210,Get started with Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+73579,Analyze climate data with Azure Notebooks,azure
+73580,Analyze the sentiment of reviews with Keras,azure
+73581,Predict flight delays by creating a machine learning model in Python,azure
+73733,Allow users to reset their password with Azure Active Directory self-service password reset,"azure, azure-active-directory"
+73768,Create Azure users and groups in Azure Active Directory,"azure, azure-active-directory"
+74061,Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data,"azure, azure-virtual-machines"
+74098,Protect your virtual machine settings with Azure Automation State Configuration,"azure, azure-virtual-machines, azure-automation"
+74971,Export large amounts of data from Azure by using Azure Import/Export,azure-storage
+76102,Create a web UI with ASP.NET Core,"dotnet, aspnet-core, dotnet-core"
+76356,Introduction to Dynamics 365 Customer Engagement apps - fundamentals,"dynamics, power-platform"
+76357,Introduction to Unified Operations Products - fundamentals,"dynamics, dynamics-finance-operations"
+76358,Managing Deployments and Releases - fundamentals,"dynamics, dynamics-customer-service"
+76359,Introduction to the Power Platform - fundamentals,power-platform
+76360,"Explore licensing, onboarding, and support Options - fundamentals","dynamics, dynamics-finance-operations"
+77587,Expose multiple Azure Function apps as a consistent API by using Azure API Management,"azure, azure-api-management, azure-functions"
+77914,Author a basic formula to change properties in a Power Apps canvas app,"power-platform, powerapps"
+77915,Author a basic formula that uses tables and records in a Power Apps canvas app,"power-platform, powerapps"
+77916,Shape data in a Power Apps canvas app,"power-platform, powerapps"
+77917,Work with external data in a Power Apps canvas app,"power-platform, powerapps"
+77918,Write data in a Power Apps canvas app,"power-platform, powerapps"
+77919,Access Common Data Service data in Dynamics 365 portals,"dynamics, power-platform, common-data-service"
+77926,Introduction to Microsoft 365 core services and features,m365
+78267,Discover how to foster an AI-ready culture in finance,"azure, dynamics, m365"
+78300,Discover how to foster an AI-ready culture in marketing,"azure, dynamics, m365"
+78303,Discover how to foster an AI-ready culture in sales,"azure, dynamics, m365"
+78306,Discover how to foster an AI-ready culture in customer service,"azure, dynamics, m365"
+78310,Introduction to AI technology,"azure, dynamics, m365"
+78313,Examine the Microsoft approach to artificial intelligence,"azure, dynamics, m365"
+78316,Identify guiding principles for responsible AI,"azure, dynamics, m365"
+79965,Decompose a monolithic application into a microservices architecture,"azure, azure-functions, azure-app-service"
+80016,How to build the UI in a canvas app in Power Apps,"power-platform, powerapps"
+80041,"Build a simple website using HTML, CSS, and Javascript",windows
+80042,Develop web applications with Visual Studio Code,windows
+80379,Define an AI strategy to create business value in healthcare,"azure, dynamics, m365"
+80381,Define an AI strategy to create business value in manufacturing,"azure, dynamics, m365"
+80382,Define an AI strategy to create business value in retail,"azure, dynamics, m365"
+80383,Understand the importance of building an AI-ready culture,"azure, dynamics, m365"
+80385,Define an AI strategy to create business value in financial services,"azure, dynamics, m365"
+80474,Publishing to docs.microsoft.com,
+80480,Accelerate deployment and improve adoption of Microsoft 365 with FastTrack,m365
+80698,Microsoft Azure Artificial Intelligence (AI) strategy and solutions,azure
+80700,Introduction to security in Microsoft 365,m365
+80704,Move large amounts of data to the cloud by using Azure Data Box family,"azure-storage, azure-data-box-family"
+80752,Author a basic formula to change behaviors in a Power Apps canvas app,"power-platform, powerapps"
+80883,Introduction to Power Platform developer resources,"dynamics, power-platform, powerapps, common-data-service"
+80884,Introduction to extending the Microsoft Power Platform,"dynamics, power-platform, powerapps, common-data-service"
+80885,Use developer tools to extend the Power Platform,"dynamics, power-platform, powerapps, common-data-service"
+80890,Performing common actions with client script,"dynamics, power-platform, powerapps, common-data-service"
+80892,Automate Business Process Flows with client script,"dynamics, power-platform, powerapps, common-data-service"
+80893,Introduction to web resources,"dynamics, power-platform, powerapps, common-data-service"
+80898,Introduction to Common Data Service for developers,"dynamics, power-platform, powerapps, common-data-service"
+80899,Extend plug-ins,"dynamics, power-platform, powerapps, common-data-service"
+83812,Writing for docs.microsoft.com,
+83857,Explore what Power BI can do for you,"dynamics, power-bi, power-platform"
+83858,Analyze data with Power BI,"power-bi, power-platform"
+87198,Introduction to Mobile Apps in Azure App Service,"azure, azure-portal"
+89152,Define an AI strategy to create value in government,"azure, dynamics, m365"
+92345,Overview of Dynamics 365 Sales Professional,"dynamics, dynamics-sales"
+92348,Administer and configure Dynamics 365 Sales Professional,"dynamics, dynamics-sales"
+92689,Define an AI strategy to create business value,"azure, dynamics, m365"
+92690,"Analyze images in real time with machine learning, Azure IoT Hub, and Azure Stream Analytics","azure, power-bi, azure-iot-hub, azure-functions, azure-sql-database, azure-stream-analytics, azure-cognitive-services"
+92877,Explore the ecosystem and main components of Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92878,Explore the technical architecture of Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92879,Explore design and deployment considerations for Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92880,Manage Finance and Operations apps implementations by using Lifecycle Services,"dynamics, dynamics-finance-operations"
+92882,Work with performance and monitoring tools in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92883,Manage source code by using version control in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92885,Explore the test framework and tools in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+92886,Explore reporting tools in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92894,Develop object-oriented code in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92895,Get started with development using X++ in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92896,Customize Finance and Operations apps by using Visual Studio,"dynamics, dynamics-finance-operations"
+92897,Implement application lifecycle management in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92898,Build extended data types and enumerations for Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92899,Build tables in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92900,Build forms and optimize form performance in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92901,Create classes in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92902,Build reports for Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92904,Build workspaces in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+92905,Implement role-based security in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92906,Connect to Power Platform services with Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92908,Apply basic performance optimization in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92910,Explore extensions and the extension framework in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92911,Extend elements in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92913,Identify data integration patterns and scenarios in Dynamics 365 for Finance and Operations,"dynamics, dynamics-finance-operations"
+92914,Implement data integration concepts and solutions for Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92915,Implement the Data management package API for Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92916,Data integrations with Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92918,Manage data sources with external data stores in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+92919,Integrate Finance and Operations apps with Microsoft Azure,"dynamics, dynamics-finance-operations"
+93619,Add principles of inclusive design to your Windows app,windows
+93623,Configure your Windows app to use Narrator and speech recognition,windows
+93823,Evaluate the requirements for implementing the Custom Vision APIs,azure
+94001,Introduction to Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+94003,Create and manage entities in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+94004,Create and manage fields within an entity in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+94005,Working with option sets in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+94006,Load/export data and create data views in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+94014,Secure an ASP.NET Core web app with the Identity framework,"dotnet, aspnet-core, dotnet-core, ef-core, azure"
+95369,Create a relationship between entities in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+95370,Define and create business rules in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+95371,Create and define calculation or rollup fields in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+95412,Get started with Microsoft 365,"m365, office-365, windows"
+95422,Analyze your device and app readiness for Windows 10,"m365, office-365, windows"
+95423,Analyze your directory and network readiness for Microsoft 365,"m365, windows"
+95424,Deliver Office 365 ProPlus and business apps,"m365, office-365"
+95426,Migrate user files and settings in Microsoft 365,m365
+95427,Update your security and compliance configuration – Windows 10 and Office 365 ProPlus,"m365, windows, office-365"
+95428,"Deploy, upgrade, and migrate to Windows 10","m365, windows"
+95430,Learn about Windows and Office 365 ProPlus servicing in Microsoft 365,"m365, windows, office-365"
+95431,Train users on the new Windows and Office 365 ProPlus features,"m365, windows, office-365"
+95616,Get started with security roles in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+95618,Use administration options for Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+96577,Introduction to Azure Kubernetes Service,"azure, azure-kubernetes-service"
+98297,Create a multistage pipeline by using Azure Pipelines,"azure, azure-devops"
+98298,Create a release pipeline in Azure Pipelines,"azure, azure-devops"
+98299,Manage release cadence in Azure Pipelines with deployment patterns,"azure, azure-devops"
+98301,Run functional tests in Azure Pipelines,"azure, azure-devops"
+98307,Express infrastructure as code to automate your deployments,azure
+98313,Optimize the feedback loop in your Azure DevOps pipeline,azure
+98445,Configure and manage secrets in Azure Key Vault,azure
+98446,Manage users and groups in Azure Active Directory,"azure, azure-active-directory"
+98450,Configure security policies to manage data,azure
+98453,Create security baselines,azure
+98466,Introduction to Python,azure
+99727,Define an AI strategy to create value in education,"azure, dynamics, m365"
+100983,Consume business events in Finance and Operations apps,"dynamics, dynamics-finance-operations"
+101326,Create and manage environments in Common Data Service,"dynamics, power-platform, common-data-service, powerapps"
+101723,"Develop, test, and publish Azure Functions by using Azure Functions Core Tools","azure, azure-functions"
+102387,Add decision logic to your code using the if-elseif-else statement in C#,dotnet
+103824,Introduction to App Center,"azure, azure-portal, vs-app-center"
+104399,Overview of identity and access management in Microsoft 365,"azure, m365"
+104402,Simplify access and identity provisioning with Microsoft 365,"azure, m365"
+104404,Strengthen authentication with Microsoft 365,"azure, m365"
+104407,Protect those most targeted,m365
+104589,Manage database changes in Azure Pipelines,"azure, azure-devops, azure-sql-database"
+106180,Set up number series and trail codes in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+106204,Set up posting groups in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+106206,Set up dimensions in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+106208,Set up the chart of accounts in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+106664,Get data with Power BI Desktop,"power-platform, power-bi"
+106666,Model data in Power BI,"power-platform, power-bi"
+106669,Use visuals in Power BI,"power-platform, power-bi"
+106671,Explore data in Power BI,"power-bi, power-platform"
+106673,Publish and share in Power BI,"power-platform, power-bi"
+107503,Set up general journal templates in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107504,Create and process journal entries in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107505,Post periodic journal entries in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107528,Perform a bank reconciliation in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107529,Set up payment reconciliation journals in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107530,Use the payment reconciliation journal in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107545,Create budgets in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107546,Configure financial reports by using account schedules in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107547,Use dimensions in your financial reports in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107548,Forecast your cash flow in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107549,Set up XBRL reports in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107558,Get started with cost accounting in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107560,Transfer general ledger entries to cost accounting in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107561,Allocate costs in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107562,Create cost accounting reports in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107576,Set up cash management in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107577,Enter payments in the cash receipt journal and the payment journal in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107578,Suggest vendor payments in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+107579,Use checks to pay vendors in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108025,Invoicing customers in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108026,Processing vendor invoices in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108027,Posting prepayment invoices for sales and purchase orders in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108028,Process incoming documents in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108029,Send and receive electronic documents in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108033,Set up currencies and exchange rates in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108034,Process sales and purchases in foreign currencies in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108035,Adjust exchange rates in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108036,Process foreign currency payments in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108037,Set up an additional reporting currency in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108047,Send reminders to customers in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108048,Send finance charge memos to customers in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108049,Process Intrastat in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108050,Close a fiscal year in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108315,Set up VAT in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108316,Process VAT in documents and journals in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108317,Calculate and post VAT settlements in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108318,Perform a VAT rate change in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108355,Start your free Dynamics 365 Business Central trial,"dynamics, dynamics-business-central"
+108356,Introducing Microsoft Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108357,Customize Microsoft Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108628,Prepare for a Teams deployment with Microsoft 365,"m365, office-365, office-teams"
+108632,Deploy Microsoft Teams clients,"m365, office-365, office-teams"
+108634,Manage Microsoft Teams,"m365, office-365, office-teams"
+108636,"Manage apps, bots, and connectors in Microsoft Teams","m365, office-365, office-teams"
+108639,"Manage meetings, conferences, and events with Microsoft Teams","m365, office-365, office-teams"
+108833,Create and publish an Express.js web application with Azure App Service and Visual Studio Code,azure
+108908,User interface essentials in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108909,Personalize the Microsoft Dynamics 365 Business Central user interface,"dynamics, dynamics-business-central"
+108910,Use alternative interfaces for Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+108925,Explore and modify information in Business Central,"dynamics, dynamics-business-central"
+108926,"Search, filter, sort and select data in Business Central","dynamics, dynamics-business-central"
+108927,"Master, supplemental and personal data in Business Central","dynamics, dynamics-business-central"
+109266,Work with Trade master data in Microsoft Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109267,Set up Trade in Microsoft Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109272,Create purchase documents in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109273,Receive and invoice items in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109274,Set up purchase prices and discounts in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109275,Post purchase item charges in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109276,Estimate purchase order receipt dates in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109288,Set up assembly management in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109289,Set up assembly items in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109290,Assemble to order in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109291,Assemble to stock in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+109380,Write your first C# code,dotnet
+109805,Analyze costs and create budgets with Azure Cost Management,azure-cost-management
+110052,Introduction to modern management in Microsoft 365,m365
+110054,Automate Windows deployments by using Windows Autopilot,m365
+110056,Manage applications by using Microsoft Intune,m365
+110059,Manage Windows 10 through co-management by using System Center Configuration Manager,m365
+110349,Create your first Azure IoT Central app,"azure-iot-central, azure-maps"
+110734,Create sales documents in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110735,Ship and invoice items in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110736,Manage sales prices in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110737,Set up discounts for your customers in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110738,Promising sales order delivery in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110746,Set up returns management in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110747,Manage customer returns in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110748,Manage returns to vendors in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110833,Set up inventory replenishment in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110834,Set up inventory planning in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110835,Plan items in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+110853,Administer Business Central online,"dynamics, dynamics-business-central"
+110854,Create new companies in Business Central,"dynamics, dynamics-business-central"
+110855,Migrate data to Business Central,"dynamics, dynamics-business-central"
+110856,Manage users and implement security in Business Central,"dynamics, dynamics-business-central"
+110857,Integrate Business Central with email and Outlook,"dynamics, dynamics-business-central"
+110866,Change how documents look in Business Central,"dynamics, dynamics-business-central"
+110867,Configure Business Central for Excel and Power BI,"dynamics, dynamics-business-central"
+110868,Connect to the intelligent cloud with Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+111240,See Azure in action,"azure, azure-portal, azure-sql-database, azure-virtual-machines"
+111241,Microsoft Cloud Adoption Framework for Azure,azure
+111364,Prepare for Windows Virtual Desktop in Microsoft Azure,m365
+111366,Deploy Windows Virtual Desktop in Microsoft Azure,m365
+111369,Optimize Windows Virtual Desktop in Microsoft Azure,m365
+111573,Create Embedded Web Experiences with Tabs for Microsoft Teams,"m365, office-teams"
+111853,Build a Node.js app for Azure Cosmos DB in Visual Studio Code,"azure, azure-cosmos-db, vs-code"
+112085,Introduction to Microsoft Relationship Sales Solution (MRSs) value proposition for your clients,"dynamics, dynamics-sales"
+112152,Getting Started with Microsoft Identity,"m365, azure-active-directory"
+112154,Optimize data usage when using Microsoft Graph with query parameters,"ms-graph, m365"
+112157,Optimize network traffic with Microsoft Graph,"ms-graph, m365"
+113254,Introduction to Docker containers,"azure, azure-container-registry, azure-container-instances"
+114284,Upgrading Office in Windows,"m365, office-365, windows"
+116922,Predict numeric values with regression,azure
+116929,Predict categories with machine learning classification,azure
+116933,Use deep learning models to make predictions about specialized data,azure
+117087,Convert data types using casting and conversion techniques in C#,dotnet
+117733,Store and retrieve data using literal and variable values in C#,dotnet
+117738,Perform basic operations on numbers in C#,dotnet
+117743,Choose the correct data type in your C# code,dotnet
+117821,Store and iterate through sequences of data using Arrays and the foreach statement in C#,dotnet
+117823,Call methods from the .NET Class Library using C#,dotnet
+117824,"Create readable code with conventions, whitespace, and comments in C#",dotnet
+117828,Evaluate Boolean expressions to make decisions in C#,dotnet
+117831,Branch the flow of code using the switch-case construct in C#,dotnet
+117833,Iterate through a code block using for statement in C#,dotnet
+117835,Add looping logic to your code using the do-while and while statements in C#,dotnet
+117837,Control variable scope and logic using code blocks in C#,dotnet
+117842,Format alphanumeric data for presentation in C#,dotnet
+118482,Plan and implement legal entities in Finance and Operations apps,
+118483,Plan and implement security in Finance and Operations apps,
+118486,Design and build mobile apps for Finance and Operations apps,
+118487,Personalize Dynamics Finance and Operations apps,
+118488,Implement common integration features in Finance and Operations apps,
+118490,Prepare data for migration to Finance and Operations apps,
+118491,Work with data management in Finance and Operations apps,
+118497,Configure currencies in Dynamics 365 Finance,
+118498,"Create fiscal calendars, years, and periods in Dynamics 365 Finance",
+118500,Configure ledgers and journals in Dynamics 365 Finance,
+118501,Perform general ledger daily procedures in Dynamics 365 Finance,
+118502,Intercompany accounting in Dynamics 365 Finance,
+118503,Configure ledger allocations and accruals in Dynamics 365 Finance,
+118506,Work with cash and bank management in Dynamics 365 Finance,
+118507,Configure letters of credit and guarantees in Dynamics 365 Finance,
+118512,Perform Accounts payable daily procedures in Dynamics 365 Finance,
+118513,"Work with accounting distributions, invoice validations and settlements in Dynamics 365 Finance",
+118516,Perform Accounts receivable daily procedures in Dynamics 365 Finance,
+118517,Configure credit and collections in Dynamics 365 Finance,
+118518,Process credit and collections in Dynamics 365 Finance,
+118521,Configure and use budget planning in Dynamics 365 Finance,
+118523,Configure fixed assets management in Dynamics 365 Finance,
+118524,Manage fixed assets in Dynamics 365 Finance,
+118525,Get started with cost accounting in Dynamics 365 Finance,
+118526,Configure and perform periodic processes in Dynamics 365 Finance,
+118529,Get started with discrete manufacturing in Dynamics 365 Supply Chain Management,
+118534,Get started with product configuration in Dynamics 365 Supply Chain Management,
+118536,Get started with lean manufacturing in Dynamics 365 Supply Chain Management,
+118541,Configure activity-based subcontracting and production flow costing in Dynamics 365 Supply Chain Management,
+118545,"Work with commodity pricing, and compliance in Dynamics 365 Supply Chain Management",
+118547,Use warehouse management for manufacturing in Dynamics 365 Supply Chain Management,
+118548,Get started with Dynamics 365 Supply Chain Management,
+118552,Create products and product masters in Dynamics 365 Supply Chain Management,
+118555,Configure and perform the procure-to-purchase process in Dynamics 365 Supply Chain Management,
+118558,Configure and work with quality control in Dynamics 365 Supply Chain Management,
+118561,Configure and use intercompany trade in Dynamics 365 Supply Chain Management,
+118562,Configure and use master planning in Dynamics 365 Supply Chain Management,
+118564,Configure warehouse management in Dynamics 365 Supply Chain Management,
+118565,Work with warehouse management in Dynamics 365 Supply Chain Management,
+118568,Explore the ecosystem and main components of Finance and Operations apps,
+118569,Explore the technical architecture of Finance and Operations apps,
+118570,Explore design and deployment considerations for Finance and Operations apps,
+118571,Manage Finance and Operations apps implementations by using Lifecycle Services,
+118572,Work with performance and monitoring tools in Finance and Operations apps,
+118573,Manage source code by using version control in Finance and Operations apps,
+118575,Explore reporting tools in Finance and Operations apps,
+118577,Get started with development using X++ in Finance and Operations apps,
+118580,Implement application lifecycle management in Finance and Operations apps,
+118584,Create classes in Finance and Operations apps,
+118585,Build reports for Finance and Operations apps,
+118587,Implement role-based security in Finance and Operations apps,
+118588,Apply basic performance optimization in Finance and Operations apps,
+118590,Explore extensions and the extension framework in Finance and Operations apps,
+118591,Extend elements in Finance and Operations apps,
+118592,Consume business events in Finance and Operations apps,
+118595,Implement data integration concepts and solutions for Finance and Operations apps,
+118596,Implement the Data management package API for Finance and Operations apps,
+118597,Data integrations with Finance and Operations apps,
+118598,Manage data sources with external data stores in Finance and Operations apps,
+118599,Integrate Finance and Operations apps with Microsoft Azure,
+118600,Connect to Power Platform services with Finance and Operations apps,
+119091,Introduction to the Microsoft service adoption framework,m365
+119092,"Service adoption framework - Phase 1, Start",m365
+119096,"Service adoption framework - Phase 2, Experiment",m365
+119098,"Service adoption framework - Phase 3, Scale",m365
+120918,Configure Dynamics 365 Finance for public sector,
+120979,Introduction to the Open source Analytics Offering,azure-hdinsight
+120981,Choose the correct HDInsight Configuration to build open source analytical solutions,azure-hdinsight
+120988,Creating and configuring a HDInsight cluster,azure-hdinsight
+120993,Perform Zero ETL analytics with HDInsight Interactive Query,azure-hdinsight
+121178,Identify governing practices for responsible AI,"azure, dynamics, m365"
+121180,Identify governing practices for responsible AI in government,"azure, dynamics, m365"
+121181,Discuss practices for responsible AI at Microsoft,"azure, dynamics, m365"
+121768,Understand Office Add-ins fundamentals,"office-add-ins, m365"
+121778,Understand Office Javascript APIs,"office-add-ins, m365"
+121788,Understand how to customize Office Add-ins,"office-add-ins, m365"
+121792,"Understand testing, debugging, and deployment options for Office Add-ins","office-add-ins, m365"
+121943,Manage IoT Central applications with the REST API,"azure, azure-iot-central"
+122003,Perform basic string formatting in C#,dotnet
+122026,Introduction to Windows Virtual Desktop in Microsoft Azure,m365
+122164,Plan for SharePoint in Microsoft 365,"m365, office-365"
+122167,Understand your SharePoint site options,m365
+122169,Collaborate with files and folders in SharePoint,m365
+122171,Manage your SharePoint sites,m365
+122475,Run non-functional tests in Azure Pipelines,"azure, azure-devops"
+122477,Provision databases in Azure Pipelines,"azure, azure-devops"
+122497,Introduction to threat protection with Microsoft 365,"m365, m365-threat-protection"
+122667,Dynamics 365 AI - Insights-driven business applications,dynamics
+125348,Dynamics 365 Supply Chain Management,"dynamics, dynamics-scm"
+126181,Introduction to building apps for Microsoft Teams,"m365, office-teams"
+126604,"Search for data anomalies using Azure machine learning, IoT Hub routing, and Stream Analytics","azure-iot-hub, azure-stream-analytics, azure-machine-learning-service, azure-storage, power-bi"
+127070,"Review domain authentication, email best practices, and GDPR in Dynamics 365 Marketing","dynamics, dynamics-marketing"
+127538,Perform operations on arrays using helper methods in C#,dotnet
+127543,Secure Azure Active Directory users with Multi-Factor Authentication,"azure, azure-portal, azure-active-directory"
+127879,Foundations of cloud computing for administrators,azure
+127880,Provision and manage cloud services,azure
+127885,Deploy Windows Update in Microsoft 365,m365
+127887,Use Microsoft 365 to promote a security mindset,m365
+127891,Manage devices by using Microsoft Intune,m365
+127897,Create cost accounting master data in Dynamics 365 Business Central,"dynamics, dynamics-business-central"
+128861,Remotely monitor and control devices with Azure IoT Hub,azure-iot-hub
+129903,Identify security threats with Azure Security Center,azure
+129904,Protect your servers and VMs from brute-force and malware attacks with Azure Security Center,azure
+130121,Deliver the value of modern workplace through business conversations,m365
+131649,Create an on-site event in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+131650,Create a webinar event in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+131651,"Promote events, manage registration and check-ins, and review results in Dynamics 365 Marketing","dynamics, dynamics-marketing"
+131652,Advanced event management features in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+131675,Manage customers in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+131676,Manage assets and content settings in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+131677,"Manage emails, segments, and journeys in Dynamics 365 Marketing","dynamics, dynamics-marketing"
+131678,"Manage forms, pages, and subscription centers in Dynamics 365 Marketing","dynamics, dynamics-marketing"
+131679,Analyze insights in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+131680,Review the marketing calendar in Dynamics 365 Marketing ,"dynamics, dynamics-marketing"
+131860,Secure your cloud resources with access control,azure
+131861,Virtualize resources in the cloud,azure
+136617,Collaborate with Git,azure
+136899,Dynamics 365 Finance,"dynamics, dynamics-finance-operations"
+138476,Modify the content of strings using built-in string data type methods in C#,dotnet
+139222,Manage subscription centers and double opt-in in Dynamics 365 Marketing,"dynamics, dynamics-marketing"
+139223,"Manage website visits, redirect URLs, and social postings in Dynamics 365 Marketing","dynamics, dynamics-marketing"
+139716,Edit code through branching and merging in Git,azure
+139717,Introduction to Git,azure
+146081,Make predictions from complex data with neural networks,azure
+146082,Use unsupervised learning to analyze unlabeled data,azure
+146083,Provision infrastructure in Azure Pipelines,"azure, azure-devops"
+146635,Prepare to upgrade and update Office at scale in Windows,"m365, office-365, office, windows"
+146636,Manage and troubleshoot common issues with Office in Windows,"m365, office-365, windows"
+146638,Prevent data loss,"m365, office-365"
+146639,Information protection and the growing digital estate,"m365, office-365"
+146640,Information protection overview,m365
+146641,Overview of security management in Microsoft 365 security center,"m365, m365-security-center"
+146642,Secure Windows 10 endpoints,"m365, windows"
+146643,Protect mail with Office 365 Advanced Threat Protection,"m365, office-365, m365-threat-protection"
+146644,Use reporting in the Microsoft 365 security center,"m365, m365-security-center, m365-security-score"
+146645,Monitor and analyze sensitive data,"m365, office-365, m365-security-center, m365-information-protection"
+146646,Protect your data with sensitivity labels,"m365, office-365"
+146647,Protect against threats with Microsoft Defender Advanced Threat Protection,"m365, office-365, m365-security-center, windows, m365-threat-protection"
+146648,Apply Microsoft security strategy principles,"m365, office-365, m365-threat-protection"
+146649,Understand coexistence and interoperability,"m365, office-365, office-teams"
+146650,Getting started with your Teams upgrade,"m365, office-365, office-teams"
+146651,Understand hybrid connectivity,"m365, office-teams"
+146652,Plan your Teams upgrade,"m365, office-teams"
+146653,Upgrade to Teams from Skype for Business,"m365, office-teams"
+146660,Introduction to upgrading SQL Server,sql-server
